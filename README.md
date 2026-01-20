@@ -16,4 +16,4 @@ Each finger is powered by a tendon system. Fishing line is routed up, and is pow
 
 ## Tube Usage
 ![Tube_Usage](RoboHand_Images/Tube_Usage_1_0.jpg)
-To better manage the tendons, as well as allowing for more dexterous wrist movements, PTFE tubing is used.
+To better manage the tendons, as well as to allow for more dexterous wrist movements, PTFE tubing is used.
