@@ -1,6 +1,8 @@
 # RoboHand
 My work-in-progress, 18 degrees of freedom bionic hand, which is designed to be light, portable, 3d printed, and camera controlled. My end goal for this project is to have it easily replicable, and a fun project that anyone can build!
 
+# Version 1.0
+
 ## CAD Screenshot
 ![CAD Screenshot 1.0](RoboHand_Images/1_0_CAD_Screenshot.png)
 [CAD_View_Link](https://cad.onshape.com/documents/86bf4dfd6a1848240d249c8c/w/50c44644a75c750186f3763e/e/51c8a8d030c6fc09a35cee1b?renderMode=0&uiState=696f19a21f361409ffdfdc05)
