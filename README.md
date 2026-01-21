@@ -26,4 +26,5 @@ This project will run on 3 seperate programs. Program 1(Python) will look at the
 ## Program 1
 [Program_1](src/AngleCalc_User.py)
 The program works by calculating the difference in the y coordinate of each joint on a finger, and converts it into an angle.  
+
 Future Improvements: The code works great as of now, however, at the beggining of a finger movement, the PIP and DIP joints are not very responsive. I plan to fix this in the future. I also plan to add an initial calibration step to work more accurately with various hand sizes.
