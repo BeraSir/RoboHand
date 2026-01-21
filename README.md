@@ -1,7 +1,7 @@
 # RoboHand
 My work-in-progress, 18 degrees of freedom bionic hand, which is designed to be light, portable, 3d printed, and camera controlled. My end goal for this project is to have it easily replicable, and a fun project that anyone can build!
 
-# Version 1.0 Mechanics
+# Version 1 Mechanics
 
 ## CAD Screenshot
 ![CAD Screenshot 1.0](RoboHand_Images/1_0_CAD_Screenshot.png)
@@ -20,7 +20,7 @@ Each finger is powered by a tendon system. Fishing line is routed up, and is pow
 ![Tube_Usage](RoboHand_Images/Tube_Usage_1_0.jpg)
 To better manage the tendons, as well as to allow for more dexterous wrist movements, PTFE tubing is used. Without tubing, a wrist movement may increase the tension on a specific tendon, flexing the finger unintentionally. 
 
-# Version 1.0 Programming:
+# Version 1 Programming:
 This project will run on 3 seperate programs. Program 1(Python) will look at the users hands, converting the coordinates of each joint into angles. Program 2(Python) will look at the robot hand, to confirm when the robot has completed any commands, due to the lack of internal sensors(other than crude servo potentiometers). Finally, program 3(C++) will send these commands to a microcontroller, and have the required motors carry out the commands(using serial communication).
 
 ## Program 1
